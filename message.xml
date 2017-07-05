@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<message id="1">
+    <amount>1000</amount>
+    <recieverBankName>May Bank</recieverBankName>
+    <recieverName>Banda</recieverName>
+    <senderBankName>CIMB</senderBankName>
+    <senderName>Sabir</senderName>
+    <type>MT 103</type>
+</message>
